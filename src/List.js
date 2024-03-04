@@ -18,4 +18,5 @@ const List = ({people}) => {
 	);
 };
 
+
 export default List;
